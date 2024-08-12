@@ -204,11 +204,11 @@ export const footerItem = [
 export const footerContact = [
   {
     icon: <i className="fa fa-map-marker-alt me-3"></i>,
-    name: "123 Street, New York, USA",
+    name: "Mall Road Manali Manali ",
   },
   {
     icon: <i className="fa fa-phone-alt me-3"></i>,
-    name: "+012 345 67890",
+    name: " 98160 00000",
   },
   {
     icon: <i className="fa fa-envelope me-3"></i>,
@@ -269,7 +269,7 @@ export const testimonial = [
 export const roomItems = [
   {
     img: "../assets/img/room-1.jpg",
-    price: "$110/night",
+    price: "Rs 1110/night",
     name: "Junior Suit",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -286,7 +286,7 @@ export const roomItems = [
 
   {
     img: "../assets/img/room-2.jpg",
-    price: "$110/night",
+    price: "Rs 12110/night",
     name: "Executive Suite",
     star: [
       <small class="fa fa-star text-primary"></small>,
@@ -302,7 +302,7 @@ export const roomItems = [
   },
   {
     img: "../assets/img/room-3.jpg",
-    price: "$110/night",
+    price: "Rs 1230/night",
     name: "Super Deluxe",
     star: [
       <small class="fa fa-star text-primary"></small>,
