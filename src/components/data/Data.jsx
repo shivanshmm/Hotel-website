@@ -74,7 +74,7 @@ export const carouselData = [
     btn2: "Book Room",
   },
   {
-    img: "../assets/img/manali.jpg",
+    img: "../assets/img/manali2.jpg",
     title: "Discover A Brand Luxurious Hotel",
     subtitle: "luxury living",
     btn1: "Our Room",
@@ -136,22 +136,22 @@ export const services = [
 export const team = [
   {
     image: "../assets/img/team-1.jpg",
-    name: "Full Name",
+    name: "Michellen star ",
     designation: "",
   },
   {
     image: "../assets/img/team-2.jpg",
-    name: "Full Name",
+    name: "Vaibhav Arora ",
     designation: "",
   },
   {
     image: "../assets/img/team-3.jpg",
-    name: "Full Name",
+    name: "Anthew",
     designation: "",
   },
   {
     image: "../assets/img/team-3.jpg",
-    name: "Full Name",
+    name: "Shivansh",
     designation: "",
   },
 ];
@@ -236,7 +236,7 @@ export const contact = [
 export const testimonial = [
   {
     description:
-      "Manali Grand has fascinating view from its rooms & terrace. The sunset visible from hotel's premises is soul stirring with a view of river Beas just flowing next to hotel premises adjoining nearby. ",
+      "Sylvan Hues has fascinating view from its rooms & terrace. The sunset visible from hotel's premises is soul stirring with a view of river Beas just flowing next to hotel premises adjoining nearby. ",
     name: "Client Name",
     profession: "Profession",
     icon: (
@@ -246,7 +246,7 @@ export const testimonial = [
   },
   {
     description:
-      "Manali Grand has fascinating view from its rooms & terrace. The sunset visible from hotel's premises is soul with a view of river Beas just flowing next to hotel premises adjoining nearby. ",
+      "Sylvan Hues has fascinating view from its rooms & terrace. The sunset visible from hotel's premises is soul with a view of river Beas just flowing next to hotel premises adjoining nearby. ",
     name: "Client Name ",
     name: "Client Name",
     profession: "Profession",

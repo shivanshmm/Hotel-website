@@ -35,7 +35,7 @@ export default function Sliders() {
                       style={{ width: "45px", height: "45px" }}
                     />
                     <div className="ps-3">
-                      <h6 className="fw-bold mb-1">{item.name}</h6>
+                      <h6 className="fw-bold mb-1">Shivansh </h6>
                       <small>{item.profession}</small>
                     </div>
                   </div>

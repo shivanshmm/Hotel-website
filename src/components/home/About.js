@@ -14,10 +14,10 @@ export default function About() {
               </h6>
               <h1 className="mb-4">
                 Welcome to{" "}
-                <span className="text-primary text-uppercase">Hotelier</span>
+                <span className="text-primary text-uppercase">Sylvan Hues</span>
               </h1>
               <p className="mb-4">
-              Hotelier has fascinating view from its rooms & terrace. The sunset visible from hotel's premises is soul stirring with a view of river Beas just flowing next to hotel premises adjoining nearby. 
+              Sylvan Hues has fascinating view from its rooms & terrace. The sunset visible from hotel's premises is soul stirring with a view of river Beas just flowing next to hotel premises adjoining nearby. 
               </p>
               <div className="row g-3 pb-4">
                 {about.map((item, key) => (
