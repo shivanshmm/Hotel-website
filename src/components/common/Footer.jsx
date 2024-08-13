@@ -18,8 +18,7 @@ export default function Footer() {
                   <h1 className="text-white text-uppercase mb-3">Hotelier</h1>
                 </Link>
                 <p className="text-white mb-0">
-                  Build a professional website for your hotel business and grab
-                  the attention of new visitors upon your site’s launch.
+                With best of facilities our staff is dedicated and professionally experienced in all kinds of tourist handlings and groups.
                 </p>
               </div>
             </div>
